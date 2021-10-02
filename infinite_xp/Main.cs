@@ -160,8 +160,8 @@ namespace infinite_xp
             {
                 foreach (string t in towers)
                 {
-                    player2.AddTowerXP(t, 100000);
-                    player2.GainPlayerXP(100000);
+                    player2.AddTowerXP(t, 100000000);
+                    player2.GainPlayerXP(100000000);
                 }
 
 
